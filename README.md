@@ -1,4 +1,4 @@
-# daiolupo.github.io
+# daiolupo.github.io/personal-portfolio-website/
 
 A static portfolio website for Dwain Aiolupotea built with HTML, CSS and JavaScript.
 
